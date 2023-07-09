@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://megadev.uz">    
-    <img src="https://s12.gifyu.com/images/SWNcv.jpg" style="max-width: 100%;border-radius: 50%;object-fit: cover;" alt="Logo" width="300" height="300">
+    <img src="https://s12.gifyu.com/images/SWNcv.jpg" border="50%" style="border-radius: 50%;object-fit: cover;" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">👋 Hey there, my name is Xidirov Diyorbek</h3>
