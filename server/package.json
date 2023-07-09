@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "megadev.uz server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diyordeveloper/megadev.git"
+  },
+  "author": "diyorbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diyordeveloper/megadev/issues"
+  },
+  "homepage": "https://github.com/diyordeveloper/megadev#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2",
+    "nodemon": "^3.0.0",
+    "uuid": "^9.0.0"
+  }
+}
