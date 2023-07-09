@@ -5,6 +5,8 @@
 <div align="center">
   <a href="https://megadev.uz">    
     <img src="https://s12.gifyu.com/images/SWNcv.jpg" style="border-radius: 50%"  alt="Logo" width="300" height="300">
+      <a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
+
   </a>
 
   <h3 align="center">👋 Hey there, my name is Xidirov Diyorbek</h3>
