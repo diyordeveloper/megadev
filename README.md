@@ -3,21 +3,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://poccu.github.io/cv/">    
-    <img src="https://s11.gifyu.com/images/SQD8J.png" alt="Logo" width="200" height="200">
+  <a href="https://megadev.uz">    
+    <img src="https://gifyu.com/image/SWNcv" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">👋 Hey there, my name is Grigory Chemeris</h3>
+  <h3 align="center">👋 Hey there, my name is Xidirov Diyorbek</h3>
 
   <p align="center">   
-    And I'm a Frontend Developer
+    And I'm a Full-Stack and Mobile Developer
     <br />
     <br />
-    <a href="https://poccu.github.io/cv/">View Portfolio</a>
+    <a href="https://megadev.uz">View Portfolio</a>
     ·
-    <a href="https://github.com/poccu/cv/issues">Report Bug</a>
+    <a href="https://github.com/diyordeveloper/megadev">Report Bug</a>
     ·
-    <a href="https://github.com/poccu/cv/issues">Request Feature</a>
+    <a href="https://github.com/diyordeveloper/megadev/issues">Request Feature</a>
   </p>
 </div>
 
@@ -94,8 +94,8 @@ I started this project to practice and consolidate my knowledge of `React`, `Jav
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [telegram-shield]: https://img.shields.io/badge/-Telegram-black.svg?style=for-the-badge&logo=telegram&colorB=555
-[telegram-url]: https://t.me/mordoboy
+[telegram-url]: https://t.me/diyorbekdeveloper
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/poccu/
+[linkedin-url]: https://www.linkedin.com/in/diyorbekdeveloper/
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
-[github-url]: https://github.com/Poccu
+[github-url]: https://github.com/diyordeveloper
