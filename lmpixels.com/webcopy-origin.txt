@@ -1,0 +1,360 @@
+Uri: https://fonts.googleapis.com/css?family=Oswald:300,400,700
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,latin-ext,cyrillic
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79P0U.ttf
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\s\ptsans\v17\jizaRExUiTo99u79P0U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizdRExUiTo99u79D0e8fOytKA.ttf
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\s\ptsans\v17\jizdRExUiTo99u79D0e8fOytKA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh4Ok.ttf
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\s\ptsans\v17\jizfRExUiTo99u79B_mh4Ok.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizYRExUiTo99u79D0eEwA.ttf
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\s\ptsans\v17\jizYRExUiTo99u79D0eEwA.ttf
+Content Type: font/ttf
+
+Uri: https://lmpixels.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/blog-post-1.html
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\blog-post-1.html
+Content Type: text/html
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/animate.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\animate.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/bootstrap.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/font-awesome.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/magnific-popup.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/main.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\main.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/normalize.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\normalize.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/owl.carousel.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/pe-icon-7-stroke.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\pe-icon-7-stroke.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/css/transition-animations.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\css\transition-animations.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/favicon.ico
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/fontawesome-webfont.eot?
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/Pe-icon-7-stroke.eot?
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\Pe-icon-7-stroke-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/Pe-icon-7-stroke.eot?d7yf1v
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\Pe-icon-7-stroke.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/Pe-icon-7-stroke.svg?d7yf1v
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\Pe-icon-7-stroke.svg
+Content Type: image/svg+xml
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/Pe-icon-7-stroke.ttf?d7yf1v
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\Pe-icon-7-stroke.ttf
+Content Type: application/octet-stream
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/fonts/Pe-icon-7-stroke.woff?d7yf1v
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\fonts\Pe-icon-7-stroke.woff
+Content Type: font/woff
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_1.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_1.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_2.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_2.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_2_full.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_2_full.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_3.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_3.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_4.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_4.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_5.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_5.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_6.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_6.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_7.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_7.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/blog_post_8.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\blog_post_8.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/comments/comment_photo_1.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\comments\comment_photo_1.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/blog/comments/comment_photo_2.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\blog\comments\comment_photo_2.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/clients/client_1.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\clients\client_1.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/clients/client_2.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\clients\client_2.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/clients/client_3.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\clients\client_3.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/clients/client_4.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\clients\client_4.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/clients/client_5.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\clients\client_5.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/clients/client_6.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\clients\client_6.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/home_page_bg_2.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\home_page_bg_2.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/my_photo.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\my_photo.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/1.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/10.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\10.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/11.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\11.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/12.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\12.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/2.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/3.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\3.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/4.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\4.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/5.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\5.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/6.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\6.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/7.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\7.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/8.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\8.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/9.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\9.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/portfolio_details/1_1.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\portfolio_details\1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/portfolio_details/1_2.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\portfolio_details\1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/portfolio/portfolio_details/1_3.jpg
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\portfolio\portfolio_details\1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/service/copywrite.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\service\copywrite.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/service/ecommerce.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\service\ecommerce.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/service/management.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\service\management.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/service/web_design.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\service\web_design.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/testimonials/testimonial_photo_1.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\testimonials\testimonial_photo_1.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/images/testimonials/testimonila_photo_2.png
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\images\testimonials\testimonila_photo_2.png
+Content Type: image/png
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/index.html
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\index.html
+Content Type: text/html
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/bootstrap.min.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/imagesloaded.pkgd.min.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/jquery-2.1.3.min.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\jquery-2.1.3.min.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/jquery.hoverdir.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\jquery.hoverdir.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/jquery.magnific-popup.min.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/jquery.shuffle.min.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\jquery.shuffle.min.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/main.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\main.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/masonry.pkgd.min.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/modernizr.custom.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/owl.carousel.min.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/page-transition.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\page-transition.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/js/validator.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\js\validator.js
+Content Type: application/javascript
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/portfolio-1.html
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\portfolio-1.html
+Content Type: text/html
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/preview/lmpixels-demo-panel.css
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\preview\lmpixels-demo-panel.css
+Content Type: text/css
+
+Uri: https://lmpixels.com/demo/sunshine-demo/sunshine-version-2/sunshine-html-template/preview/lmpixels-demo-panel.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\demo\sunshine-demo\sunshine-version-2\sunshine-html-template\preview\lmpixels-demo-panel.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\beacon.min.js\v8b253dfea2ab4077af8c6f58422dfbfd1689876627854
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\DIYORBEK\ALL\webCopy\lmpixels.com\recaptcha\api.js
+Content Type: text/javascript
+
