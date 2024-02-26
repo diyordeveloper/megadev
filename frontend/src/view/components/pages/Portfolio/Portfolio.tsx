@@ -1,4 +1,3 @@
-// import React from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import Thumb1 from "../../../assets/img/thumbs/1-1.jpg";
 import Portfolio4 from "../../../assets/img/portfolio/irbis1.png";

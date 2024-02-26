@@ -35,7 +35,7 @@ const initialState: BlogsState = {
 };
 
 // -----------------------------------
-
+// @ts-ignore
 export const GET_BLOGS = createAsyncThunk("blogs/get", async (thunkAPI) => {
   const response = await axios.get(`${url}/blogs`);
   const data = response.data.result;
@@ -43,6 +43,7 @@ export const GET_BLOGS = createAsyncThunk("blogs/get", async (thunkAPI) => {
 });
 export const GET_BLOGS_ID = createAsyncThunk(
   "blogs/:id/get",
+  // @ts-ignore
   async (id: any, thunkAPI) => {
     const response = await axios.get(`${url}/blogs/${id}`);
     const data = response.data.result;
@@ -56,6 +57,7 @@ const BlogsSlice = createSlice({
   initialState,
   reducers: {},
   extraReducers: (builder) => {
+    // @ts-ignore
     builder.addCase(GET_BLOGS.pending, (state, action) => {
       state.loader = true;
     });
@@ -69,6 +71,7 @@ const BlogsSlice = createSlice({
       state.blogs = [];
     });
     // GET ID
+    // @ts-ignore
     builder.addCase(GET_BLOGS_ID.pending, (state, action) => {
       state.loader_id = true;
     });

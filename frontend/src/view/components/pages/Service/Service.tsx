@@ -1,4 +1,3 @@
-
 import { Link, Outlet, useLocation } from "react-router-dom";
 import Facts from "./Facts";
 import Partners from "./Partners";

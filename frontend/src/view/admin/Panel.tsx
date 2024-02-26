@@ -4,7 +4,7 @@ import AdminHome from "./pages/AdminHome/AdminHome";
 
 // style...
 import "./static/style/style.css";
-
+// @ts-ignore
 function Panel({ LogOut }: any) {
   return (
     <>
