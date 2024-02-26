@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./style.css";
 import RefreshIcon from "@mui/icons-material/Refresh";
 function Error({ error, height }: { error: any; height: any }) {

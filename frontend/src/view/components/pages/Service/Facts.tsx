@@ -3,7 +3,7 @@ import CountUp from "react-countup";
 // import ScrollTrigger from "react-scroll-trigger";
 
 function Facts() {
-  const [counterOn, setCounterOn] = useState<boolean>(false);
+  // const [counterOn, setCounterOn] = useState<boolean>(false);
   return (
     <div className="tokyo_tm_facts">
       <div className="container">

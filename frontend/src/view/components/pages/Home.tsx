@@ -1,4 +1,4 @@
-import React from "react";
+
 // @ts-ignore
 import { Typewriter } from "react-simple-typewriter";
 import Avatar from "../../assets/img/slider/pc.png";

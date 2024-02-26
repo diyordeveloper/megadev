@@ -1,4 +1,4 @@
-import React from "react";
+
 import Thumbs2 from "../../../assets/img/thumbs/40-25.jpg";
 import Skeleton from "react-loading-skeleton";
 function LoadingBlog({ cards }: { cards: any }) {

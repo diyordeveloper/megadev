@@ -1,4 +1,4 @@
-import React from "react";
+
 import Cursor from "./components/Cursor";
 import AnimationLoader from "./components/loader/AnimationLoader";
 import LeftBar from "./components/menuBar/LeftBar";

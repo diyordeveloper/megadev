@@ -1,4 +1,3 @@
-import React, { useEffect } from "react";
 import MySkills from "./MySkills";
 import Education from "./Education";
 import Testimonials from "./Testimonials";

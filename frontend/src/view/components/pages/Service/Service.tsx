@@ -1,8 +1,8 @@
-import React from "react";
+
 import { Link, Outlet, useLocation } from "react-router-dom";
 import Facts from "./Facts";
 import Partners from "./Partners";
-import Pricing from "./Pricing";
+// import Pricing from "./Pricing";
 import { services } from "./data";
 import { TabTitle } from "../../TabTitle";
 

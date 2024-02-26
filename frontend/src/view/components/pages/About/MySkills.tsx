@@ -1,6 +1,3 @@
-import axios from "axios";
-import React, { useEffect, useState } from "react";
-import CountUp from "react-countup";
 import ArrowSVG from "../../../assets/img/svg/rightarrow.svg";
 
 function MySkills() {

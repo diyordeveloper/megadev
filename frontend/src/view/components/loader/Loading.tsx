@@ -1,4 +1,4 @@
-import React from "react";
+// @ts-ignore
 import Spinner from "./spinner.gif";
 import "./style.css";
 function Loading({ height }: { height: any }) {

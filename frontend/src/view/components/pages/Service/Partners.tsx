@@ -1,7 +1,7 @@
-import React from "react";
+
 import TerraTech from "../../../assets/img/partners/dark/TerraTech.png";
-import Islamic from "../../../assets/img/partners/dark/Islamic.png";
-import RAuto from "../../../assets/img/partners/dark/retail_auto.png";
+// import Islamic from "../../../assets/img/partners/dark/Islamic.png";
+// import RAuto from "../../../assets/img/partners/dark/retail_auto.png";
 
 function Partners() {
   return (

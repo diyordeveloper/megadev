@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from "react";
+import  { useState } from "react";
 import axios from "axios";
 import { TabTitle } from "../TabTitle";
 import { useLocation } from "react-router-dom";
-import PhoneInput from "react-phone-number-input";
 
 function Contact() {
   const { pathname } = useLocation();
