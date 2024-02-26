@@ -102,7 +102,7 @@ function App() {
             <Route path="/service/:title" element={<ModalService />} />
           </Route>
           <Route path="/portfolio" element={<Portfolio />}>
-            <Route path="/portfolio/:id:title" element={<ModalPortfolio />} />
+            <Route path="/portfolio/:id" element={<ModalPortfolio />} />
           </Route>
           <Route path="/blogs" element={<Blogs />}>
             <Route path="/blogs/:id" element={<ModalBlog />} />

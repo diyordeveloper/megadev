@@ -15,7 +15,12 @@ function Education() {
   ];
   var experience: any = [
     {
-      time: "July - Now",
+      time: "January - Now",
+      title: "Freelancer",
+      subtitle: "Mobile and Web developer",
+    },
+    {
+      time: "July - 2023 January",
       title: "Empire IT Academy",
       subtitle: "Mobile and Web developer",
     },

@@ -1,6 +1,7 @@
 import React from "react";
+// @ts-ignore
 import { Typewriter } from "react-simple-typewriter";
-import Avatar from "../../assets/img/slider/cat.jpg";
+import Avatar from "../../assets/img/slider/pc.png";
 import { TabTitle } from "../TabTitle";
 function Home() {
   TabTitle("Professional web developer - Diyorbek Xidirov");
@@ -14,28 +15,28 @@ function Home() {
   ];
   const mylink: any = [
     {
-      icon: "fa-brands fa-github",
-      link: "https://github.com/diyordeveloper",
-      status: true,
-    },
-    {
       icon: "fa-brands fa-telegram",
-      link: "https://t.me/diyorbekdeveloper",
+      link: "https://t.me/deyorbeck",
       status: true,
     },
     {
       icon: "fa-brands fa-instagram",
-      link: "https://www.instagram.com/diyorbekdeveloper",
+      link: "https://www.instagram.com/deyorbeck",
       status: true,
     },
     {
-      icon: "fa-brands fa-twitter",
-      link: "https://twitter.com/diyorcoder",
+      icon: "fa-brands fa-github",
+      link: "https://github.com/diyordeveloper",
       status: true,
     },
+    // {
+    //   icon: "fa-brands fa-twitter",
+    //   link: "https://twitter.com/diyorcoder",
+    //   status: true,
+    // },
     {
       icon: "fa-brands fa-facebook",
-      link: "https://www.facebook.com/diyorbekdeveloper",
+      link: "https://www.facebook.com/deyorbeck",
       status: true,
     },
     {
@@ -43,11 +44,11 @@ function Home() {
       link: "https://www.linkedin.com/in/diyorbekdeveloper",
       status: true,
     },
-    {
-      icon: "fa-brands fa-youtube",
-      link: "https://www.youtube.com/@diyorcoder",
-      status: false,
-    },
+    // {
+    //   icon: "fa-brands fa-youtube",
+    //   link: "https://www.youtube.com/@diyorcoder",
+    //   status: false,
+    // },
   ];
   return (
     <>

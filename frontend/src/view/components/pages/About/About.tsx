@@ -2,15 +2,15 @@ import React, { useEffect } from "react";
 import MySkills from "./MySkills";
 import Education from "./Education";
 import Testimonials from "./Testimonials";
-import Aboutbg from "../../../assets/img/slider/aboutme.jpg";
-import Thumbs1 from "../../../assets/img/thumbs/40-25.jpg";
+import Aboutbg from "../../../assets/img/slider/Banner.png";
+import Thumbs1 from "../../../assets/img/slider/Banner.png";
 // @ts-ignore
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import { useLocation } from "react-router-dom";
 import { TabTitle } from "../../TabTitle";
 function About() {
   const { pathname } = useLocation();
-  TabTitle(pathname?.slice(1).toUpperCase()+' - Diyorbek Xidirov');
+  TabTitle(pathname?.slice(1).toUpperCase() + ' - Diyorbek Xidirov');
   var aboutme = [
     {
       title: "Xidirov Diyorbek",
@@ -18,11 +18,11 @@ function About() {
       image: Aboutbg,
       address: "Tashkent and Samarkand, UZB",
       freelance: "Available",
-      age: "19",
-      birthday: "02.14.2004",
+      age: "18",
+      birthday: "02.14.2006",
       degree: "Master",
       description:
-        "Hi, my name is Adriano Smith and I began using WordPress when it first began. I’ve spent most of my waking hours for the last ten years designing, programming and operating WordPress sites.\n\nOne of my specialties is taking an idea from scratch and creating a full-fledged platform. I go beyond to produce sites with a unique, outstanding, contemporary look-and-feel. With extensive knowledge of web mechanics, I’m able to optimize complex integrations to require little-to-no maintenance while running on their own for years.",
+        "Hello, my name is Xidirov Diyorbek and I am a FullStack developer. I have 3+ years of experience and I spend most of my time working on myself. During my work, my goal is to do quality work. Contact me for quality results.",
       interest: "Write code...",
       nationality: "UZB",
       study: "PDP IT ACADEMY",

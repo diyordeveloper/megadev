@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import Thumbs3 from "../../../assets/img/thumbs/40-25.jpg";
 import { services } from "./data";
 // @ts-ignore
-import { LazyLoadImage } from "react-lazy-load-image-component"; 
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import ReactMarkdown from "react-markdown";
 function ModalService() {
   const { title } = useParams();
   var sort = services.filter((f: any) => f.title == title);
@@ -21,14 +21,16 @@ function ModalService() {
           <div className="description_wrap">
             <div className="service_popup_informations">
               <div className="image">
-                <img src={Thumbs3} alt="Error..." />
+                <img src={service.image} alt="Error..." />
                 <LazyLoadImage effect={"blur"} src={service.image} />
               </div>
               <div className="main_title">
                 <h3>{service.title}</h3>
               </div>
               <div className="descriptions">
-                <p>{service.description}</p>
+                <ReactMarkdown>
+                  {service.description}
+                </ReactMarkdown>
               </div>
             </div>
           </div>

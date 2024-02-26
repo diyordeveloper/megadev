@@ -16,7 +16,7 @@ function Dior() {
         <Topbar />
         <LeftBar />
         <RightBar />
-        {/* <Cursor /> */}
+        <Cursor />
       </div>
     </>
   );

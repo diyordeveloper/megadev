@@ -6,7 +6,7 @@ import PhoneInput from "react-phone-number-input";
 
 function Contact() {
   const { pathname } = useLocation();
-  TabTitle(pathname?.slice(1).toUpperCase()+' - Diyorbek Xidirov');
+  TabTitle(pathname?.slice(1).toUpperCase() + ' - Diyorbek Xidirov');
   var telegram_bot_id = "6196550956:AAFIKATdN8teczNIyHV36TMkHMtgRXRijEE";
   var chat_id = 980656218;
   //
@@ -85,7 +85,7 @@ function Contact() {
               <form
                 className="contact_form"
                 id="contact_form"
-                // autoComplete="off"
+              // autoComplete="off"
               >
                 <div
                   className="returnmessage"
@@ -116,13 +116,13 @@ function Contact() {
                       />
                     </li>
                     <li>
-                      <PhoneInput
+                      <input
+                        type="number"
                         placeholder="Phone Number"
                         maxLength={20}
-                        defaultCountry="UZ"
+                        required
                         value={phone}
-                        onChange={setPhone}
-                        rules={{ required: true }}
+                        onChange={(e: any) => setPhone(e.target.value)}
                       />
                     </li>
                   </ul>

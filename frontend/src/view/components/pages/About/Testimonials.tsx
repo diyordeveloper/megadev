@@ -18,9 +18,9 @@ function Testimonials() {
     {
       id: 2,
       title:
-        "Beautiful design and great, fast response with support. Highly recommend. Thanks Diyorbek!",
+        "I recommend, everything is great, I'm happy !",
       image: Testimonial2,
-      author: "Abdulaziz Sharipov",
+      author: "Abdumutal Abdullayev",
       specialist: "Project Manager",
     },
     {
@@ -30,31 +30,7 @@ function Testimonials() {
       image: Testimonial3,
       author: "Sanjar",
       specialist: "Freelancer",
-    },
-    {
-      id: 1,
-      title:
-        "Beautiful design and great, fast response with support. Highly recommend. Thanks Diyorbek!",
-      image: Testimonial1,
-      author: "Abdulaziz Sharipov",
-      specialist: "Project Manager",
-    },
-    {
-      id: 2,
-      title:
-        "Beautiful design and great, fast response with support. Highly recommend. Thanks Diyorbek!",
-      image: Testimonial2,
-      author: "Abdulaziz Sharipov",
-      specialist: "Project Manager",
-    },
-    {
-      id: 3,
-      title:
-        "I had a little problem and the support was just awesome to quickly solve the situation. And keep going on.",
-      image: Testimonial3,
-      author: "Sanjar",
-      specialist: "Freelancer",
-    },
+    }
   ];
   return (
     <>

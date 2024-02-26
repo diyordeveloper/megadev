@@ -39,6 +39,10 @@ function MySkills() {
       title: "Russian",
       percent: 60,
     },
+    {
+      title: "Korean",
+      percent: 40,
+    },
   ];
   var knowledge: any = [
     {

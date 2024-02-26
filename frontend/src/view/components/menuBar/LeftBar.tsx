@@ -36,13 +36,7 @@ function LeftBar() {
           </div>
           <div className="copyright">
             <p>
-              2022 ©
-              <a href="#" target="_blank">
-                {" "}
-                megadev.uz.
-              </a>
-              <br />
-              All Rights Reserved.
+              © 2022 all rights reserved.
             </p>
           </div>
         </div>

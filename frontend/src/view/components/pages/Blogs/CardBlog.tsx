@@ -28,7 +28,7 @@ function CardBlog({ blg, i }: { blg: any; i: any }) {
                 <span>{moment(blg.createdAt).format("ll")}</span>
               </p>
             </div>
-            <MoreVertIcon style={{ cursor: "pointer" }} />
+            {/* <MoreVertIcon style={{ cursor: "pointer" }} /> */}
           </div>
           <h3 className="title">
             <Link to={`/blogs/${blg._id}`}>
@@ -45,10 +45,10 @@ function CardBlog({ blg, i }: { blg: any; i: any }) {
               <Link to={`/blogs/${blg._id}`}>
                 <span>Read More</span>
               </Link>
-              <div className="icons_">
+              {/* <div className="icons_">
                 <RemoveRedEyeIcon className="eye_" />
                 <span>{blg.viewCount}</span>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

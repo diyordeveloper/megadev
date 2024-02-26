@@ -1,8 +1,8 @@
 import React from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import Thumb1 from "../../../assets/img/thumbs/1-1.jpg";
-import Portfolio4 from "../../../assets/img/portfolio/4.jpg";
-import Portfolio5 from "../../../assets/img/portfolio/5.jpg";
+import Portfolio4 from "../../../assets/img/portfolio/irbis1.png";
+import Portfolio5 from "../../../assets/img/portfolio/tefal1.png";
 import Portfolio6 from "../../../assets/img/portfolio/6.jpg";
 import Portfolio7 from "../../../assets/img/portfolio/7.jpg";
 // @ts-ignore
@@ -44,54 +44,6 @@ function Portfolio() {
       creative and development process allows you to quickly and
       easily ideate.`,
     },
-    {
-      id: 3,
-      title: "Jamol Makkamiy",
-      category: "Youtube",
-      image: Portfolio6,
-      description: `We live in a world where we need to move quickly and iterate on
-      our ideas as flexibly as possible. Building mockups strikes the
-      ideal balance between true-life representation of the end
-      product and ease of modification.`,
-      description2: `Mockups are useful both for the creative phase of the project -
-      for instance when you're trying to figure out your user flows or
-      the proper visual hierarchy - and the production phase when they
-      will represent the target product. Making mockups a part of your
-      creative and development process allows you to quickly and
-      easily ideate.`,
-    },
-    {
-      id: 3,
-      title: "Jamol Makkamiy",
-      category: "Youtube",
-      image: Portfolio6,
-      description: `We live in a world where we need to move quickly and iterate on
-      our ideas as flexibly as possible. Building mockups strikes the
-      ideal balance between true-life representation of the end
-      product and ease of modification.`,
-      description2: `Mockups are useful both for the creative phase of the project -
-      for instance when you're trying to figure out your user flows or
-      the proper visual hierarchy - and the production phase when they
-      will represent the target product. Making mockups a part of your
-      creative and development process allows you to quickly and
-      easily ideate.`,
-    },
-    {
-      id: 3,
-      title: "Jamol Makkamiy",
-      category: "Youtube",
-      image: Portfolio7,
-      description: `We live in a world where we need to move quickly and iterate on
-      our ideas as flexibly as possible. Building mockups strikes the
-      ideal balance between true-life representation of the end
-      product and ease of modification.`,
-      description2: `Mockups are useful both for the creative phase of the project -
-      for instance when you're trying to figure out your user flows or
-      the proper visual hierarchy - and the production phase when they
-      will represent the target product. Making mockups a part of your
-      creative and development process allows you to quickly and
-      easily ideate.`,
-    },
   ];
   return (
     <>
@@ -111,7 +63,7 @@ function Portfolio() {
                         All
                       </a>
                     </li>
-                    <li>
+                    {/* <li>
                       <a href="#" data-filter=".vimeo">
                         Vimeo
                       </a>
@@ -135,7 +87,7 @@ function Portfolio() {
                       <a href="#" data-filter=".detail">
                         Detail
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>

@@ -2,7 +2,14 @@ import React, { useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import Thumbs1 from "../../../assets/img/thumbs/4-2.jpg";
 import Thumbs3 from "../../../assets/img/thumbs/40-25.jpg";
-import Portfolio1 from "../../../assets/img/portfolio/1.jpg";
+import irbis1 from "../../../assets/img/portfolio/irbis1.png";
+import irbis2 from "../../../assets/img/portfolio/irbis2.png";
+import irbis3 from "../../../assets/img/portfolio/irbis3.png";
+import irbis4 from "../../../assets/img/portfolio/irbis4.png";
+import tefal1 from "../../../assets/img/portfolio/tefal1.png";
+import tefal2 from "../../../assets/img/portfolio/tefal2.png";
+import tefal3 from "../../../assets/img/portfolio/tefal3.png";
+import tefal4 from "../../../assets/img/portfolio/tefal4.png";
 import Portfolio2 from "../../../assets/img/portfolio/2.jpg";
 import Portfolio3 from "../../../assets/img/portfolio/3.jpg";
 import Portfolio4 from "../../../assets/img/portfolio/4.jpg";
@@ -11,14 +18,15 @@ import Portfolio6 from "../../../assets/img/portfolio/6.jpg";
 import Portfolio7 from "../../../assets/img/portfolio/7.jpg";
 import Portfolio8 from "../../../assets/img/portfolio/8.jpg";
 // @ts-ignore
-import { LazyLoadImage } from "react-lazy-load-image-component"; 
+import { LazyLoadImage } from "react-lazy-load-image-component";
 function ModalPortfolio() {
   const data = [
     {
       id: 1,
       title: "Ave Simone",
       category: "Detail",
-      image: Portfolio7,
+      image: irbis1,
+      images: [irbis2, irbis3, irbis4],
       description: `We live in a world where we need to move quickly and iterate on
       our ideas as flexibly as possible. Building mockups strikes the
       ideal balance between true-life representation of the end
@@ -34,23 +42,8 @@ function ModalPortfolio() {
       id: 2,
       title: "Eshmat Toshmat",
       category: "Telegram",
-      image: Portfolio4,
-      description: `We live in a world where we need to move quickly and iterate on
-      our ideas as flexibly as possible. Building mockups strikes the
-      ideal balance between true-life representation of the end
-      product and ease of modification.`,
-      description2: `Mockups are useful both for the creative phase of the project -
-      for instance when you're trying to figure out your user flows or
-      the proper visual hierarchy - and the production phase when they
-      will represent the target product. Making mockups a part of your
-      creative and development process allows you to quickly and
-      easily ideate.`,
-    },
-    {
-      id: 3,
-      title: "Jamol Makkamiy",
-      category: "Youtube",
-      image: Portfolio6,
+      image: tefal1,
+      images: [tefal2, tefal3, tefal4],
       description: `We live in a world where we need to move quickly and iterate on
       our ideas as flexibly as possible. Building mockups strikes the
       ideal balance between true-life representation of the end
@@ -162,7 +155,8 @@ function ModalPortfolio() {
                           <div
                             className="main"
                             style={{
-                              backgroundImage: `url(${Portfolio1})`,
+                              // @ts-ignore
+                              backgroundImage: `url(${item.images[0]})`,
                             }}
                           ></div>
                         </div>
@@ -175,7 +169,8 @@ function ModalPortfolio() {
                           <div
                             className="main"
                             style={{
-                              backgroundImage: `url(${Portfolio2})`,
+                              // @ts-ignore
+                              backgroundImage: `url(${item.images[0]})`,
                             }}
                           ></div>
                         </div>
@@ -188,7 +183,8 @@ function ModalPortfolio() {
                           <div
                             className="main"
                             style={{
-                              backgroundImage: `url(${Portfolio3})`,
+                              // @ts-ignore
+                              backgroundImage: `url(${item.images[0]})`,
                             }}
                           ></div>
                         </div>
