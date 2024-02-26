@@ -1,11 +1,12 @@
-import React from "react";
+// import React from "react";
 import { Link } from "react-router-dom";
 import Thumbs2 from "../../../assets/img/thumbs/40-25.jpg";
+// @ts-ignore
 import moment from "moment";
-import RemoveRedEyeIcon from "@mui/icons-material/RemoveRedEye";
-import ShareIcon from "@mui/icons-material/Share";
-import MoreVertIcon from "@mui/icons-material/MoreVert";
-import IconButton from "@mui/material/IconButton";
+// import RemoveRedEyeIcon from "@mui/icons-material/RemoveRedEye";
+// import ShareIcon from "@mui/icons-material/Share";
+// import MoreVertIcon from "@mui/icons-material/MoreVert";
+// import IconButton from "@mui/material/IconButton";
 // @ts-ignore
 import { LazyLoadImage } from "react-lazy-load-image-component";
 function CardBlog({ blg, i }: { blg: any; i: any }) {

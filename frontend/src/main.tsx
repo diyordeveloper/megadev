@@ -2,8 +2,8 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
 import { Provider } from "react-redux";
 import App from "./App";
-import { store } from "./view/crud/store";
-import Skeleton, { SkeletonTheme } from "react-loading-skeleton";
+import { store } from "./view/crud/store"; 
+import  { SkeletonTheme } from "react-loading-skeleton";
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import Thumbs1 from "../../../assets/img/thumbs/4-2.jpg";
 import Thumbs3 from "../../../assets/img/thumbs/40-25.jpg";
@@ -10,13 +10,13 @@ import tefal1 from "../../../assets/img/portfolio/tefal1.png";
 import tefal2 from "../../../assets/img/portfolio/tefal2.png";
 import tefal3 from "../../../assets/img/portfolio/tefal3.png";
 import tefal4 from "../../../assets/img/portfolio/tefal4.png";
-import Portfolio2 from "../../../assets/img/portfolio/2.jpg";
-import Portfolio3 from "../../../assets/img/portfolio/3.jpg";
-import Portfolio4 from "../../../assets/img/portfolio/4.jpg";
-import Portfolio5 from "../../../assets/img/portfolio/5.jpg";
-import Portfolio6 from "../../../assets/img/portfolio/6.jpg";
-import Portfolio7 from "../../../assets/img/portfolio/7.jpg";
-import Portfolio8 from "../../../assets/img/portfolio/8.jpg";
+// import Portfolio2 from "../../../assets/img/portfolio/2.jpg";
+// import Portfolio3 from "../../../assets/img/portfolio/3.jpg";
+// import Portfolio4 from "../../../assets/img/portfolio/4.jpg";
+// import Portfolio5 from "../../../assets/img/portfolio/5.jpg";
+// import Portfolio6 from "../../../assets/img/portfolio/6.jpg";
+// import Portfolio7 from "../../../assets/img/portfolio/7.jpg";
+// import Portfolio8 from "../../../assets/img/portfolio/8.jpg";
 // @ts-ignore
 import { LazyLoadImage } from "react-lazy-load-image-component";
 function ModalPortfolio() {

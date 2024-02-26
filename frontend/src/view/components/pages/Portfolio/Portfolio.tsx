@@ -1,10 +1,10 @@
-import React from "react";
+// import React from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import Thumb1 from "../../../assets/img/thumbs/1-1.jpg";
 import Portfolio4 from "../../../assets/img/portfolio/irbis1.png";
 import Portfolio5 from "../../../assets/img/portfolio/tefal1.png";
-import Portfolio6 from "../../../assets/img/portfolio/6.jpg";
-import Portfolio7 from "../../../assets/img/portfolio/7.jpg";
+// import Portfolio6 from "../../../assets/img/portfolio/6.jpg";
+// import Portfolio7 from "../../../assets/img/portfolio/7.jpg";
 // @ts-ignore
 import { LazyLoadImage } from "react-lazy-load-image-component"; 
 import { TabTitle } from "../../TabTitle";

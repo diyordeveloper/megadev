@@ -1,9 +1,6 @@
-import React, { useEffect, useState } from "react";
-import { Link, useLocation, useParams } from "react-router-dom";
+import  { useEffect } from "react";
+import { Link,  useParams } from "react-router-dom";
 import Thumbs3 from "../../../assets/img/thumbs/1-1.jpg";
-import News1 from "../../../assets/img/news/birthday.jpg";
-import { Autoplay } from "swiper";
-import { Swiper, SwiperSlide } from "swiper/react";
 import { GET_BLOGS_ID } from "../../../crud/reducer/blogs/BlogsReducer";
 import { useAppDispatch, useAppSelector } from "../../../crud/hook";
 // @ts-ignore
@@ -16,7 +13,7 @@ import ShareIcon from "@mui/icons-material/Share";
 import { IconButton } from "@mui/material";
 import { TabTitle } from "../../TabTitle";
 function ModalBlog() {
-  const { pathname } = useLocation();
+  // const { pathname } = useLocation();
 
   const { id } = useParams();
   console.log(id);
